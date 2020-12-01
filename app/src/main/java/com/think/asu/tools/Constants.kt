@@ -15,9 +15,8 @@ package com.think.asu.tools
 object Constants {
     const val ASCMode = 1
     const val DESCMode = 2
-    const val AIMode = 3
-    const val SystemMode = 4
+    const val SystemAIMode = 3
+    const val  DIYMode= 4
     const val RandomMode = 5
-    const val DIYMode = 6
 }
 

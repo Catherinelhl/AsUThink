@@ -2,8 +2,7 @@
     <string name="app_name">AsUThink</string>
     <string name="ascend_mode">循序渐进(先试一下)</string>
     <string name="descend_mode">倒序(反正再来一遍)</string>
-    <string name="ai_mode">智能模式</string>
+    <string name="system_ai_mode">系统智能模式</string>
     <string name="random_mode">随机模式</string>
-    <string name="system_mode">系统模式</string>
     <string name="diy_mode">自定义模式</string>
 </resources>
